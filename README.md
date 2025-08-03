@@ -1,8 +1,8 @@
 # CipherChat 🔐
-**World-Class Encrypted Messaging App using AES-256 Based Multi-Layer Symmetric Encryption**  
+** Encrypted Messaging App using AES-256 Based Multi-Layer Symmetric Encryption**  
 Secure. Private. Serverless. Open Source.
 
-### More secure C++ version is avaliable here: https://github.com/ProCoder1199X/CipherChat-CPP
+### More secure C++ version is avaliable [here](https://github.com/ProCoder1199X/CipherChat-CPP)
 ---
 
 ## 🧠 What is CipherChat?
